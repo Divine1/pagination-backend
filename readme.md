@@ -3,6 +3,7 @@ Libraries used
 express
 mongoose
 body-parser
+cors
 ```
 
 Tools used

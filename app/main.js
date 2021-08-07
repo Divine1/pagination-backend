@@ -1,7 +1,11 @@
 const express = require("express");
 const bodyParser = require("body-parser");
+const cors = require('cors')
+
 const countries = require("./controller")
 const app = express();
+
+app.use(cors())
 app.use(bodyParser.json());
 
 /*
