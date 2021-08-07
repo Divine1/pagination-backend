@@ -1,0 +1,110 @@
+[
+    {
+        "name": "argentina",
+        "continent": "south america"
+    },
+    {
+        "name": "brazil",
+        "continent": "south america"
+    },
+    {
+        "name": "cameroon",
+        "continent": "africa"
+    },
+    {
+        "name": "canada",
+        "continent": "north america"
+    },
+    {
+        "name": "chile",
+        "continent": "south america"
+    },
+    {
+        "name": "china",
+        "continent": "asia"
+    },
+    {
+        "name": "colombia",
+        "continent": "south america"
+    },
+    {
+        "name": "egypt",
+        "continent": "africa"
+    },
+    {
+        "name": "france",
+        "continent": "europe"
+    },
+    {
+        "name": "germany",
+        "continent": "europe"
+    },
+    {
+        "name": "ghana",
+        "continent": "africa"
+    },
+    {
+        "name": "india",
+        "continent": "asia"
+    },
+    {
+        "name": "italy",
+        "continent": "europe"
+    },
+    {
+        "name": "jamaica",
+        "continent": "north america"
+    },
+    {
+        "name": "japan",
+        "continent": "asia"
+    },
+    {
+        "name": "libya",
+        "continent": "africa"
+    },
+    {
+        "name": "mexico",
+        "continent": "north america"
+    },
+    {
+        "name": "morocco",
+        "continent": "africa"
+    },
+    {
+        "name": "nigeria",
+        "continent": "africa"
+    },
+    {
+        "name": "paraguay",
+        "continent": "south america"
+    },
+    {
+        "name": "peru",
+        "continent": "south america"
+    },
+    {
+        "name": "senegal",
+        "continent": "africa"
+    },
+    {
+        "name": "singapore",
+        "continent": "asia"
+    },
+    {
+        "name": "somalia",
+        "continent": "africa"
+    },
+    {
+        "name": "south africa",
+        "continent": "africa"
+    },
+    {
+        "name": "usa",
+        "continent": "north america"
+    },
+    {
+        "name": "zambia",
+        "continent": "africa"
+    }
+]
