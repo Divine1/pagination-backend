@@ -12,7 +12,9 @@ var countriesSchema = new mongoose.Schema({
   continent: {
     type: String
   },
-  
+  description: {
+    type : String
+  }
 },
 { 
   timestamps: true 
